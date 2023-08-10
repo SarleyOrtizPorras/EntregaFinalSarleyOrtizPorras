@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatos1",
+        "precio": 15.000,
+        "categoria": "talla28",
+        "imagen": "../img/zapatos.jpg",
+        "ingUrl": "https://listado.mercadolibre.com.co/nike-air-force-one"
+    },
+    {
+        "id": 2,
+        "nombre": "Zapatos1",
+        "precio": 15.000,
+        "categoria": "talla30",
+        "imagen": "../img/zapatos.jpg",
+        "ingUrl": "https://listado.mercadolibre.com.co/nike-air-force-one"
+    }
+]
